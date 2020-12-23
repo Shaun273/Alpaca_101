@@ -5,8 +5,8 @@ import pandas as pd
 #current_time = pd.Timestamp().isoformat()
 #print(current_time)
 
-key = "<YOUR KEY HERE>"
-sec = "<YOUR SECRET HERE>"
+key = "PK0TI726F4O4DMX4549D"
+sec = "0L9QXgvFiquroux5JlChFDoTuGppaCxivkINd3nk"
 
 #API endpoint URL
 url = "https://paper-api.alpaca.markets"
